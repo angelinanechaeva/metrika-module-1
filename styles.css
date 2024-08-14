@@ -1,0 +1,87 @@
+body {
+font-family: "Manrope", sans-serif;
+background-color: rgb(245,245,245);
+}
+
+.container {
+    width: 1150px;
+    margin: 0 auto;
+    padding: 125px;
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(18, 18, 18);
+    width: 956px;
+    height: 120px;
+    Font-weight: 400;
+    Font-size: 60px;
+    line-height: 60px;
+    margin-top: 71px;
+    margin-bottom: 30px;
+    letter-spacing: -0.03em;
+
+}
+h2{
+    color: rgb(18, 18, 18);
+    Font-weight: 400;
+    Font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 31px;
+}
+
+p {
+    color: rgb(18, 18, 18);
+    Font-weight: 400;
+    Font-size: 45px;
+    line-height: 61px;
+    margin-bottom: 29px;
+    letter-spacing: -0.03em;
+    width: 1048px;
+    height: 366px;
+
+}
+.rectangle-1 {
+
+    width: 1150px;
+    height: 500px;
+    background-image: url('../resources/Rectangle-1.png');
+    background-size: contain;
+    margin-bottom: 170px;
+}
+.rectangle-1-text p{
+
+    color: rgb(255, 255, 255);
+    width: 430px;
+    height: 81px;
+    Font-weight: 400;
+    Font-size: 20px;
+    line-height: 27px;
+    padding-left: 40px;
+    padding-top: 379px;
+    padding-bottom: 40px;
+    letter-spacing: -0.03em;
+    
+   
+}
+a {
+    display: block;
+    width: 249px;
+    height: 67px;
+    border: 1px solid rgb(173, 24, 24);
+    text-align: center;
+    line-height: 67px;
+    text-decoration: none;
+    background-color: rgb(173, 24, 24);
+    color: rgb(255, 255, 255);
+    margin-top: 29px;
+    margin-bottom: 120px;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 20px;
+}
+a:hover {
+    color: rgb(173, 24, 24);
+    background-color: rgb(255, 255, 255);
+
+}
